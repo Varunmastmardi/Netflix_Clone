@@ -10,7 +10,7 @@ This project attempts to simulate the user interface and structure of Netflix th
 - **Hover Effects**: Interactive hover effects on movie thumbnails for a more engaging user experience.
 - **Responsive Design**: A completely responsive design to make sure clone looks fantastic on both desktop and mobile gadgets.
 
-##Technologies Used 
+## Technologies Used 
 - **HTML**: To organize content.
 - **CSS**: For appearance and arrangement.
 
