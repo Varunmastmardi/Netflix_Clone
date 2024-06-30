@@ -1,4 +1,7 @@
 {
+ "engines": {
+  "node": "20.15.0"
+  },
   "name": "netflix_clone",
   "version": "1.0.0",
   "main": "index.js",
